@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/peteakhurst/baseball/static/css/main.0efdc156.chunk.css",
+    "main.js": "/peteakhurst/baseball/static/js/main.52fe9437.chunk.js",
+    "main.js.map": "/peteakhurst/baseball/static/js/main.52fe9437.chunk.js.map",
+    "runtime-main.js": "/peteakhurst/baseball/static/js/runtime-main.fd6b0891.js",
+    "runtime-main.js.map": "/peteakhurst/baseball/static/js/runtime-main.fd6b0891.js.map",
+    "static/js/2.f2f49083.chunk.js": "/peteakhurst/baseball/static/js/2.f2f49083.chunk.js",
+    "static/js/2.f2f49083.chunk.js.map": "/peteakhurst/baseball/static/js/2.f2f49083.chunk.js.map",
+    "static/js/3.c51a9525.chunk.js": "/peteakhurst/baseball/static/js/3.c51a9525.chunk.js",
+    "static/js/3.c51a9525.chunk.js.map": "/peteakhurst/baseball/static/js/3.c51a9525.chunk.js.map",
+    "index.html": "/peteakhurst/baseball/index.html",
+    "static/css/main.0efdc156.chunk.css.map": "/peteakhurst/baseball/static/css/main.0efdc156.chunk.css.map",
+    "static/js/2.f2f49083.chunk.js.LICENSE.txt": "/peteakhurst/baseball/static/js/2.f2f49083.chunk.js.LICENSE.txt",
+    "static/media/glove-2.65c15664.jpg": "/peteakhurst/baseball/static/media/glove-2.65c15664.jpg",
+    "static/media/glove-3.c04a80ce.jpg": "/peteakhurst/baseball/static/media/glove-3.c04a80ce.jpg",
+    "static/media/glove.8817a8b0.jpg": "/peteakhurst/baseball/static/media/glove.8817a8b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd6b0891.js",
+    "static/js/2.f2f49083.chunk.js",
+    "static/css/main.0efdc156.chunk.css",
+    "static/js/main.52fe9437.chunk.js"
+  ]
+}
